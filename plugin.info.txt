@@ -1,0 +1,7 @@
+base   lazyload
+author G.HS.Robert
+email  robertus0617@gmail.com
+date   2020-03-21
+name   Lazyload-any
+desc   Pseudo-plugin for loading elements lazily with jQuery lazyload-any plugin
+url    https://www.dokuwiki.org/plugin:lazyload
